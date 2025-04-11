@@ -62,4 +62,3 @@ The primary objective of this project is to build a **robust machine learning mo
   - XGBoost  
 - **Tools:**  
   - Jupyter Notebook  
-  - VS Code / any IDE of your choice  
