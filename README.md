@@ -18,7 +18,7 @@ The primary objective of this project is to build a **robust machine learning mo
 
 ---
 
-## 🧠 Project Phases
+## Project Phases
 
 1. **Exploratory Data Analysis (EDA)**  
    - Statistical summary of data  
@@ -43,14 +43,14 @@ The primary objective of this project is to build a **robust machine learning mo
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 - **Source:** Simulated dataset from Kaggle involving a telecom provider – **Telco**
 - **Content:** Customer demographics, service subscription details, account information, and churn labels
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Language:** Python  
 - **Libraries:**  
@@ -63,5 +63,3 @@ The primary objective of this project is to build a **robust machine learning mo
 - **Tools:**  
   - Jupyter Notebook  
   - VS Code / any IDE of your choice  
-
----
