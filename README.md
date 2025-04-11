@@ -1,6 +1,6 @@
 # Customer Churn Analysis and Modeling
 
-Customer churn is a significant concern in highly competitive industries like telecommunications. It refers to the loss of customers who discontinue their subscriptions or services, directly impacting profitability and long-term sustainability. This project explores data-driven techniques to analyze, understand, and predict customer churn using a simulated dataset from a fictional telecom company, **Telco**.
+Customer churn is a significant concern in highly competitive industries like telecommunications. It refers to the loss of customers who discontinue their subscriptions or services, directly impacting profitability and long-term sustainability. This project explores data-driven techniques to analyze, understand, and predict customer churn using a dataset obtained from Kaggle involving a telecom provider – **Telco**.
 
 ---
 
